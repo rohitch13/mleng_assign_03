@@ -1,0 +1,9 @@
+scikit-learn
+sentence-transformers==2.2.2
+huggingface_hub==0.25.0
+tokenizers
+joblib
+pydantic
+uvicorn
+fastapi
+streamlit
